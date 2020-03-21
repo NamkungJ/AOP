@@ -37,8 +37,7 @@
 		<dependency>
 		    <groupId>org.springframework</groupId>
 		    <artifactId>spring-test</artifactId>
-		    <version>${org.springframework-version}</version>
-		    <scope>test</scope>
+		    <version>${org.springframework-version}</version>		    
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
 		<dependency>
